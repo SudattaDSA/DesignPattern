@@ -1,0 +1,1 @@
+Welcome to the Design Patterns repository! This project provides comprehensive examples and explanations of various software design patterns. The goal of this repository is to serve as a reference for developers looking to understand and implement design patterns in their projects.
